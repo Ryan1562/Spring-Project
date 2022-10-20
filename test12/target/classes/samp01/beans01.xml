@@ -7,6 +7,6 @@
 	<bean id="mb" class="samp01.MessageBeanImpl" init-method="init">
 		<property name="greeting"><value>안녕하세요</value></property>
 	</bean>
-	
+	efnselfaknl
 
 </beans>
